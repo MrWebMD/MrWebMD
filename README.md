@@ -31,6 +31,7 @@
     <img src="./images/adobe/professional/web.png" alt="Adobe Certified Professional In Web, Video, and Visual Design" width="80px">
   </span>
 </p>
+
 ## Liam AI
 
 ![Liam AI Banner](./images/projects/liam-ai-banner.jpg)
