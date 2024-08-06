@@ -2,16 +2,35 @@
 
 ## Adobe Certified Professional In Web, Video, and Visual Design
 
-<img src="./images/adobe/professional/ps.png" alt="Adobe Certified Professional In Web, Video, and Visual Design" width="80">
-<img src="./images/adobe/professional/pr.png" alt="Adobe Certified Professional In Web, Video, and Visual Design" width="80">
-<img src="./images/adobe/professional/an.png" alt="Adobe Certified Professional In Web, Video, and Visual Design" width="80">
-<img src="./images/adobe/professional/ai.png" alt="Adobe Certified Professional In Web, Video, and Visual Design" width="80">
-<img src="./images/adobe/professional/id.png" alt="Adobe Certified Professional In Web, Video, and Visual Design" width="80">
-<img src="./images/adobe/professional/dw.png" alt="Adobe Certified Professional In Web, Video, and Visual Design" width="80">
-<img src="./images/adobe/professional/visual.png" alt="Adobe Certified Professional In Web, Video, and Visual Design" width="80">
-<img src="./images/adobe/professional/video.png" alt="Adobe Certified Professional In Web, Video, and Visual Design" width="80">
-<img src="./images/adobe/professional/web.png" alt="Adobe Certified Professional In Web, Video, and Visual Design" width="80">
-
+<p>
+  <span>
+    <img src="./images/adobe/professional/ps.png" alt="Adobe Certified Professional In Web, Video, and Visual Design" width="80px">
+  </span>
+  <span>
+    <img src="./images/adobe/professional/pr.png" alt="Adobe Certified Professional In Web, Video, and Visual Design" width="80px">
+  </span>
+  <span>
+   <img src="./images/adobe/professional/an.png" alt="Adobe Certified Professional In Web, Video, and Visual Design" width="80px">
+  </span>
+  <span>
+    <img src="./images/adobe/professional/ai.png" alt="Adobe Certified Professional In Web, Video, and Visual Design" width="80px">
+  </span>
+  <span>
+    <img src="./images/adobe/professional/id.png" alt="Adobe Certified Professional In Web, Video, and Visual Design" width="80px">
+  </span>
+  <span>
+    <img src="./images/adobe/professional/dw.png" alt="Adobe Certified Professional In Web, Video, and Visual Design" width="80px">
+  </span>
+  <span>
+    <img src="./images/adobe/professional/visual.png" alt="Adobe Certified Professional In Web, Video, and Visual Design" width="80px">
+  </span>
+  <span>
+    <img src="./images/adobe/professional/video.png" alt="Adobe Certified Professional In Web, Video, and Visual Design" width="80px">
+  </span>
+  <span>
+    <img src="./images/adobe/professional/web.png" alt="Adobe Certified Professional In Web, Video, and Visual Design" width="80px">
+  </span>
+</p>
 ## Liam AI
 
 ![Liam AI Banner](./images/projects/liam-ai-banner.jpg)
