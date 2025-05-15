@@ -32,6 +32,29 @@
   </span>
 </p>
 
+## LockBit Data Leak Explorer: Read over 200 ransomware negotiations
+
+![Don't Do Crime](./images/projects/dont-do-crime.jpg)
+
+LockBit is a prolific ransomware group who encrypts the systems of companies and then demands tens of thousands of dollars in cryptocurrencies in exchange for the victim to have their files decrypted and recovered. [CISA reported](https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-165a) on June 14th 2023, that at least $91 million in ransoms have been paid to LockBit.
+
+LockBit's negotiations with their victims have been leaked. This website lets the general public explore over 200 unfiltered conversations between LockBit and their victims for the purpose of awareness and research. It also includes stats from my own cryptocurrency analysis of the 59k listed bitcoin wallets.
+
+Technology: NodeJS, Express, EJS, MySQL
+
+**[Live Demo](https://dontdocrime.com)**
+
+## Tampa Bay Rays Game Tracker
+
+This app tracks the Tampa Bay Rays baseball games, including final scores, venue, and pitcher stats in realtime using the Major League Baseball API.
+
+![Tampa Bay Rays Game Tracker](./images/projects/tbrays-website.jpg)
+
+**Technology:** NodeJS, NextJS, React
+
+**[Live Demo](https://tbrays.webdev.gg)**  
+**[Github](https://github.com/MrWebMD/tbrays)**
+
 ## Liam AI
 
 ![Liam AI Banner](./images/projects/liam-ai-banner.jpg)
