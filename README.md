@@ -4,33 +4,47 @@
 
 <p>
   <span>
-    <img src="./images/adobe/professional/ps.png" alt="Adobe Certified Professional In Web, Video, and Visual Design" width="80px">
+    <img src="./images/adobe/professional/ps.png" alt="Adobe Certified Professional in Photoshop" width="80px">
   </span>
   <span>
-    <img src="./images/adobe/professional/pr.png" alt="Adobe Certified Professional In Web, Video, and Visual Design" width="80px">
+    <img src="./images/adobe/professional/pr.png" alt="Adobe Certified Professional in Premiere Pro" width="80px">
   </span>
   <span>
-   <img src="./images/adobe/professional/an.png" alt="Adobe Certified Professional In Web, Video, and Visual Design" width="80px">
+    <img src="./images/adobe/professional/an.png" alt="Adobe Certified Professional in Animate" width="80px">
   </span>
   <span>
-    <img src="./images/adobe/professional/ai.png" alt="Adobe Certified Professional In Web, Video, and Visual Design" width="80px">
+    <img src="./images/adobe/professional/ai.png" alt="Adobe Certified Professional in Illustrator" width="80px">
   </span>
   <span>
-    <img src="./images/adobe/professional/id.png" alt="Adobe Certified Professional In Web, Video, and Visual Design" width="80px">
+    <img src="./images/adobe/professional/id.png" alt="Adobe Certified Professional in InDesign" width="80px">
   </span>
   <span>
-    <img src="./images/adobe/professional/dw.png" alt="Adobe Certified Professional In Web, Video, and Visual Design" width="80px">
+    <img src="./images/adobe/professional/dw.png" alt="Adobe Certified Professional in Dreamweaver" width="80px">
   </span>
   <span>
-    <img src="./images/adobe/professional/visual.png" alt="Adobe Certified Professional In Web, Video, and Visual Design" width="80px">
+    <img src="./images/adobe/professional/visual.png" alt="Adobe Certified Professional in Visual Design" width="80px">
   </span>
   <span>
-    <img src="./images/adobe/professional/video.png" alt="Adobe Certified Professional In Web, Video, and Visual Design" width="80px">
+    <img src="./images/adobe/professional/video.png" alt="Adobe Certified Professional in Video Design" width="80px">
   </span>
   <span>
-    <img src="./images/adobe/professional/web.png" alt="Adobe Certified Professional In Web, Video, and Visual Design" width="80px">
+    <img src="./images/adobe/professional/web.png" alt="Adobe Certified Professional in Web Design" width="80px">
   </span>
 </p>
+
+## Tenure.app – Published Firefox Extension for Website Age Checking
+
+![Tenure](./images/projects/tenure.png)
+
+[Tenure](https://tenure.app) is a **Mozilla Firefox extension that I designed, built, and successfully published on the Firefox Add-ons Marketplace**. It provides users with a simple way to check how long any website has been registered which is helpful for avoiding phishing scams.
+
+The extension performs **direct client-side RDAP queries to over 600 RDAP servers, covering 2,380 TLDs**, delivering fast and reliable domain registration insights. Most importantly the app is privacy focused, **all processing happens locally in the browser with no tracking, logging, or data collection**.
+
+Key features:
+
+- One-click website age detection
+- Queries over 600 RDAP servers covering 2,380 TLDs
+- All processing happens locally in your browser
 
 ## LockBit Data Leak Explorer: Read over 200 ransomware negotiations
 
