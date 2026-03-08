@@ -42,7 +42,8 @@ The extension performs **direct client-side RDAP queries to over 600 RDAP server
 
 Key features:
 
-- One-click website age detection
+- Zero-click website age detection
+- Displays website age in Google, DuckDuckGo, and Startpage search results.
 - Queries over 600 RDAP servers covering 2,380 TLDs
 - All processing happens locally in your browser
 
