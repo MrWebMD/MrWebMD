@@ -32,7 +32,7 @@
   </span>
 </p>
 
-## Tenure.app – Published Firefox Extension for Website Age Checking
+## Tenure.app – Zero-Click Website Age Checker
 
 ![Tenure](./images/projects/tenure-app-image.jpg)
 
