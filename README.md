@@ -34,11 +34,11 @@
 
 ## Tenure.app – Published Firefox Extension for Website Age Checking
 
-![Tenure](./images/projects/tenure.png)
+![Tenure](./images/projects/tenure-app-image.jpg)
 
-[Tenure](https://tenure.app) is a **Mozilla Firefox extension that I designed, built, and successfully published on the Firefox Add-ons Marketplace**. It provides users with a simple way to check how long any website has been registered which is helpful for avoiding phishing scams.
+[Tenure](https://tenure.app) is an extension that I created and published on the **Chrome Web Store** and **Firefox Add-ons Marketplace**. User's can quickly check how old a website is and see the age of websites in the search results. This information will help users identify scams and phishing sites that have been recently created.
 
-The extension performs **direct client-side RDAP queries to over 600 RDAP servers, covering 2,380 TLDs**, delivering fast and reliable domain registration insights. Most importantly the app is privacy focused, **all processing happens locally in the browser with no tracking, logging, or data collection**.
+The extension performs **direct client-side RDAP queries to over 600 RDAP servers, covering 2,380 TLDs**, delivering fast and reliable domain registration information. Most importantly the app is privacy focused, **all processing happens locally in the browser with no tracking, logging, or data collection**.
 
 Key features:
 
